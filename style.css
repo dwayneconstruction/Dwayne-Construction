@@ -1,4 +1,4 @@
-*{margin:0;padding:0;box-sizing:border-box}:root{--ink:#1f2933;--mute:#5b6770;--b:#3f78e0;--bg:#eef2f6}
+*{margin:0;padding:0;box-sizing:border-box}:root{--ink:#1f2933;--mute:#5b6770;--b:#3f78e0;--bg:#dce5ef}
 html{scroll-behavior:smooth}body{font:18px/1.7 'Inter','Segoe UI',Arial,sans-serif;color:var(--ink)}h1,h2,h3{font-family:'Montserrat','Segoe UI',Arial,sans-serif;line-height:1.2}
 header{background:var(--b);padding:12px 5%;display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:10px;position:sticky;top:0;z-index:20}
 header img{height:54px;display:block}nav a{color:#fff;text-decoration:none;font-weight:600;margin-right:28px;font-size:1.02rem}nav a:hover{text-decoration:underline}
